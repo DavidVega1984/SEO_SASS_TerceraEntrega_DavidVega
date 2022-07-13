@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Raleway;
+    overflow-x: hidden;
+  }
+
+
+  aside {
+    position: fixed;
+    right: 1rem;
+    top: 0;
+    bottom: 0;
+    padding: 25px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 99;
+    justify-content: center;
+  }
+  
